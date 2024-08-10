@@ -47,7 +47,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            dilip <span>-&gt;</span>
           </h2>
           <p>Finddilip in-depth information about Next.js features and API.</p>
         </a>
